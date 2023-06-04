@@ -4,4 +4,4 @@ Este é o desafio 1 da formação base de Tecnologia da Escola DNC, utilizando H
 # Links 
 Site disponibilizado // https://arquitetando-sonhos.netlify.app/ 
 
-P lanilha de ristro de informação // https://shorturl.at/iyNX8/
+Planilha de ristro de informação // https://shorturl.at/iyNX8/
